@@ -19,35 +19,37 @@ redirect_from:
 
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
 **Generative AI Software Developer** | *(Nov 2024 – Present)*  
-- 🔑 Developing a multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
+- Developing a multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 
 **University of Maryland, College Park – Dept. of Statistics**  
 **Machine Learning Researcher** | *(Aug 2024 – Present)*  
-- 🤖 Implemented intrinsic Gaussian processes with heat kernel mapping and manifold regularization for advanced classification  
-- ⚙️ Enhanced image generation through conditional GANs with novel penalty-based objective functions
+**Independent Researcher - Spring 2025**
+- Implemented intrinsic Gaussian processes with heat kernel mapping and manifold regularization for advanced classification
+- Research on geometric deep learning for graphs, grids and data manifolds.
+- Working on understanding and devising novel methods to harness the power of expressiveness in graph neural networks.
 
 **University of Maryland, College Park – Dept. of Mechanical Engineering**  
 **Machine Learning Researcher** | *(Jan 2024 – Dec 2024)*  
-- 🔬 Implemented VNET with an attention mechanism for the Stanford Type B Aorta Dissection dataset, incorporating transformer-based encoders  
-- 🦾 Engineered soft robotic grippers using 3D printing, developing ML models to predict object properties from PV curves and tactile data
+- Implemented VNET with an attention mechanism for the Stanford Type B Aorta Dissection dataset, incorporating transformer-based encoders  
+- Engineered soft robotic grippers using 3D printing, developing ML models to predict object properties from PV curves and tactile data
 
 ---
 
 ## 🛠 Skills
 
-### 🌐 Core Technologies
+### Core Technologies
 - **Programming Languages**: Python, C++, Rust, SQL, CUDA
 - **Cloud & DevOps**: AWS (SageMaker, S3), MLOps, Docker, Git/GitHub
 - **Systems**: Linux, Microsoft Suite
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 - **Deep Learning**: Neural Nets, CNN, RNN, LSTM, Transformers, LLMs  
 - **Frameworks**: PyTorch, TensorFlow, JAX, Hugging Face  
 - **Generative**: GANs, RAG, Diffusion Models, Flow Matching, Flux Models  
 - **Techniques**: Supervised, Unsupervised, Semi-Supervised Learning  
 - **Python Core Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
-### 🚀 Robotics & Computer Vision
+### Robotics & Computer Vision
 - **Robotics**: Robot Operating System (ROS), Gazebo, RVIZ, MoveIt  
 - **Vision**: OpenCV, Robot Perception, SLAM, Visual Localization
 

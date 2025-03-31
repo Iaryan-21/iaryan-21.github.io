@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am a Robotics graduate student at the [University of Maryland](https://robotics.umd.edu). I also work as a Generative AI Engineer at the [Multimodal Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, US DOC](https://www.nist.gov). 
 
-My current work lies at the intersection of AI, Deep Learning, Computer Vision and Natural Language Processing. I have experience in developing and deploying AI architectures from ideation to user usage. I have taken up projects spanning from Image Processing to Robotics Development.  -->
-
-I'm a Robotics Graduate Student at the [University of Maryland](https://robotics.umd.edu) and Generative AI Engineer at the [Information Integrity Technologies Group](https://www.nist.gov/staff/group/6921), Information Technology Laboratory, [NIST, U.S. Department of Commerce](https://www.nist.gov).
+I'm a Robotics Graduate Student at the [University of Maryland](https://robotics.umd.edu) and Generative AI Engineer at the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, U.S. Department of Commerce](https://www.nist.gov).
 
 ## Focus
 
@@ -24,10 +21,10 @@ My work lies at the intersection of artificial intelligence and robotics, with p
 ## Expertise
 
 I have experience in developing and deploying AI solutions from conception to implementation, with experience spanning:
-- Image Processing
+- Computer Vision
 - Robotics Development
-- Large Language Models Integration and Development
-- Neural Architecture Design
+- LLM Integration and Development
+- Neural Architectures
 - System Integration
 
 

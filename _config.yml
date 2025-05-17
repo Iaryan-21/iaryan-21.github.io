@@ -23,12 +23,12 @@ repository               : "iaryan-21/iaryan-21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aryan_x.png"
+  avatar           : "images/aryan_x.png"
   name             : "Aryan Mishra"
   pronouns         : # example: "she/her"  
-  bio              : "Generative AI, Multi-Modal Learning"
-  location         : "College Park, Maryland"
-  employer         : "NIST, US DOC"
+  bio              : "Statisitics and AI"
+  location         : "College Park, MD"
+  employer         : "University of Maryland / NIST, US DOC"
   uri              : # URL
   email            : "amaryanmishra21@gmail.com" 
 

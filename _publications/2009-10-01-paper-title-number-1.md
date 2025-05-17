@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Schreier-Coset Graph Propagation"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: "Preprints"
+permalink: /publication/2025-05-16-schreier-coset-graph-propagation # Or your preferred permalink structure
+excerpt: 'We propose SCGP, a scalable, architecture-agnostic GNN augmentation that improves long-range message passing using Schreier coset embeddings without altering the graph structure.'
+date: 2025-05-16 # Trailing space removed
+venue: "arXiv preprint arXiv:2505.10392"
+paperurl: 'https://arxiv.org/abs/2505.10392'
+citation: 'Aryan Mishra, Lizhen Lin (2025). &quot;Schreier-Coset Graph Propagation.&quot; <i>arXiv preprint arXiv:2505.10392</i>.' # Trailing space removed
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

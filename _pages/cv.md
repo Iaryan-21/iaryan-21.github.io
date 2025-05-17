@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## 🎓 Education
-- **University of Maryland, College Park**: *PhD. Mathematical Statistics _(Expected : May 2030)_
+- **University of Maryland, College Park**: *PhD. Mathematical Statistics* _(Expected : May 2030)_
 - **University of Maryland, College Park**: *M.Eng in Robotics* _(May 2025)_
 - **Vellore Institute of Technology**: *B.Tech in Electronics and Communication* _(June 2023)_
 

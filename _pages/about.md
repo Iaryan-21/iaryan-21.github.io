@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-
-I'm a Robotics Graduate Student at the [University of Maryland](https://robotics.umd.edu) and Generative AI Engineer at the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory, [NIST, U.S. Department of Commerce](https://www.nist.gov).
-
+I'm an upcoming PhD. in Mathematical Statistics student at the [University of Maryland](https://stat.umd.edu/grad-home/phd-in-statistics.html).
+I am also affiliated with [NIST, U.S. Department of Commerce](https://www.nist.gov) as a Generative AI Researcher in the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory. 
+I did my Masters in Robotics  at the [University of Maryland](https://robotics.umd.edu) and Undergrad in Electronics and Communication Engineerinf from [VIT, Vellore] (https://vit.ac.in).
 ## Focus
 
-My work lies at the intersection of artificial intelligence and robotics, with particular emphasis on:
-- Deep Learning Architectures
-- Computer Vision Systems
-- Natural Language Processing
-- Multimodal AI Integration
+My interest lies at the intersection of Mathematics, Statistics and Deep Learning with emphasis on: 
+- Geometric Deep Learning 
+- Analysis of High Dimensional Data
+- Graph Strcuture Data Processing
+- Applied Statistics
+- Mathematical Analysis 
 
 ## Expertise
 
@@ -26,6 +27,7 @@ I have experience in developing and deploying AI solutions from conception to im
 - LLM Integration and Development
 - Neural Architectures
 - System Integration
+- Proceesing of Graph Structure Data 
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->

@@ -58,7 +58,7 @@ redirect_from:
 - **Vision**: OpenCV, Robot Perception, SLAM, Visual Localization
 
 
--- 
+---
 ## 📜 Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -72,9 +72,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-## 📝 Certifications : 
-======
+
+--- 
+## 📝 Certifications 
+
 * Human Subjects Research (HSR) , Non-Clinical Researchers (IT, SBER, Engineering, etc) - CITI Program.
 * CPR/AED for Professional Rescuers with First Aid - RED CROSS.
 * Deep Learning – Udacity 

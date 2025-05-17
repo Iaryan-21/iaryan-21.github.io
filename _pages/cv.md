@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## 🎓 Education
-- **University of Maryland, College Park**: *M.Eng in Robotics* _(Expected: May 2025)_
+- **University of Maryland, College Park**: *PhD. Mathematical Statistics _(Expected : May 2030)_
+- **University of Maryland, College Park**: *M.Eng in Robotics* _(May 2025)_
 - **Vellore Institute of Technology**: *B.Tech in Electronics and Communication* _(June 2023)_
 
 ---
@@ -18,7 +19,11 @@ redirect_from:
 ## 💼 Work Experience
 
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
-**Generative AI Software Developer** | *(Nov 2024 – Present)*  
+
+**Generative AI Researcher** | *(May 2025 – Present)*  
+- Responsible for the development of an image and video processing pipeline within NIST's GenAI program. This pipeline facilitates detection, recognition, and verification for forensic evaluation purposes, and includes content authentication analysis to screen for inappropriate and AI-generated content.
+
+**Generative AI Software Developer** | *(Nov 2024 – May 2025)*  
 - Developing a multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 
 **University of Maryland, College Park – Dept. of Statistics**  

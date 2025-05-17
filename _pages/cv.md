@@ -59,7 +59,7 @@ redirect_from:
 
 
 -- 
-Publications
+## 📜 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -73,7 +73,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Certifications : 
+## 📝 Certifications : 
 ======
 * Human Subjects Research (HSR) , Non-Clinical Researchers (IT, SBER, Engineering, etc) - CITI Program.
 * CPR/AED for Professional Rescuers with First Aid - RED CROSS.

@@ -44,14 +44,13 @@ redirect_from:
 
 ### Core Technologies
 - **Programming Languages**: Python, C++, Rust, SQL, CUDA
-- **Cloud & DevOps**: AWS (SageMaker, S3), MLOps, Docker, Git/GitHub
+- **Cloud & DevOps**: Microsoft Azure, AWS (SageMaker, S3), MLOps, Docker, Git/GitHub
 - **Systems**: Linux, Microsoft Suite
 
 ### Machine Learning & AI
 - **Deep Learning**: Neural Nets, CNN, RNN, LSTM, Transformers, LLMs  
 - **Frameworks**: PyTorch, TensorFlow, JAX, Hugging Face  
 - **Generative**: GANs, RAG, Diffusion Models, Flow Matching, Flux Models  
-- **Techniques**: Supervised, Unsupervised, Semi-Supervised Learning  
 - **Python Core Libraries**: NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
 
 ### Robotics & Computer Vision
@@ -59,7 +58,7 @@ redirect_from:
 - **Vision**: OpenCV, Robot Perception, SLAM, Visual Localization
 
 
-<!-- 
+-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -67,7 +66,7 @@ Publications
   {% endfor %}</ul>
   
 
-  
+<!--  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}

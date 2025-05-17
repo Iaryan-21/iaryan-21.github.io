@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an upcoming PhD. in Mathematical Statistics student at the [University of Maryland](https://stat.umd.edu/grad-home/phd-in-statistics.html).
-I am also affiliated with [NIST, U.S. Department of Commerce](https://www.nist.gov) as a Generative AI Researcher in the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig), Information Technology Laboratory. 
-I did my Masters in Robotics  at the [University of Maryland](https://robotics.umd.edu) and Undergrad in Electronics and Communication Engineerinf from [VIT, Vellore] (https://vit.ac.in).
+Forthcoming Ph.D. candidate in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). Alongside my doctoral studies, I contribute as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the [National Institute of Standards and Technology (NIST), U.S. Department of Commerce's](https://www.nist.gov) Information Technology Laboratory. My foundation includes a Master's in Robotics from the [University of Maryland](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
+
+
 ## Focus
 
 My interest lies at the intersection of Mathematics, Statistics and Deep Learning with emphasis on: 

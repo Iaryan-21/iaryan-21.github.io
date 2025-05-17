@@ -9,7 +9,7 @@ redirect_from:
 
 Forthcoming Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). Alongside my doctoral studies, I contribute as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the [National Institute of Standards and Technology (NIST), U.S. Department of Commerce's](https://www.nist.gov) Information Technology Laboratory. My foundation includes a Master's in Robotics from the [University of Maryland](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
 
-
+---
 ## Focus
 
 My interest lies at the intersection of Mathematics, Statistics and Deep Learning with emphasis on: 
@@ -19,15 +19,14 @@ My interest lies at the intersection of Mathematics, Statistics and Deep Learnin
 - Applied Statistics
 - Mathematical Analysis 
 
-## Expertise
+---
+## Publications
 
-I have experience in developing and deploying AI solutions from conception to implementation, with experience spanning:
-- Computer Vision
-- Robotics Development
-- LLM Integration and Development
-- Neural Architectures
-- System Integration
-- Proceesing of Graph Structure Data 
+### PREPRINT
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->

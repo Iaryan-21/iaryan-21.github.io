@@ -23,7 +23,7 @@ repository               : "iaryan-21/iaryan-21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/aryan_x.png"
+  avatar           : "aryan_x.png"
   name             : "Aryan Mishra"
   pronouns         : # example: "she/her"  
   bio              : "Statisitics and AI"

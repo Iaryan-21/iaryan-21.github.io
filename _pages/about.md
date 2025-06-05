@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Forthcoming Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). Alongside my doctoral studies, I contribute as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the [National Institute of Standards and Technology (NIST), U.S. Department of Commerce's](https://www.nist.gov) Information Technology Laboratory. My foundation includes a Master's in Robotics from the [University of Maryland](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
+Forthcoming Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). Alongside my doctoral studies, I have contributed as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the [National Institute of Standards and Technology (NIST), U.S.DOC](https://www.nist.gov) Information Technology Laboratory. My foundation includes a Master's in Robotics from the [University of Maryland, Robotics](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
 
 ---
 ## Focus

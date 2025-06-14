@@ -26,9 +26,9 @@ author:
   avatar           : "aryan_x.png"
   name             : "Aryan Mishra"
   pronouns         : # example: "she/her"  
-  bio              : "Statisitics and AI"
+  bio              : "PhD student @ UMD"
   location         : "College Park, MD"
-  employer         : "University of Maryland"
+  employer         : #"University of Maryland"
   uri              : # URL
   email            : "amaryanmishra21@gmail.com" 
 
@@ -36,7 +36,7 @@ author:
   arxiv            : #
   googlescholar    : "https://scholar.google.com/citations?user=nuIeAPAAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-4684-1616"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0009-0006-4684-1616"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : iAryan21
+  twitter          : #iAryan21
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

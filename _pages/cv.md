@@ -20,6 +20,10 @@ redirect_from:
 
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
 
+
+**Generative AI Research** | *(June 2025 – Present)*  
+- Responsible for the development of an image and video processing pipeline within NIST's GenAI program. This pipeline facilitates detection, recognition, and verification for forensic evaluation purposes, and includes content authentication analysis to screen for inappropriate and AI-generated content.
+
 **Generative AI Software Developer** | *(Nov 2024 – May 2025)*  
 - Developing a multimodal authentication pipeline for NIST's GenAI program, creating evaluation metrics to detect fabricated content
 

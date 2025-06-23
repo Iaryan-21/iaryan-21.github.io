@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Incoming Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). In addition I work as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the National Institute of Standards and Technology (NIST), U.S.DOC. My foundation includes a Master's in Robotics from the [Maryland Robotics Center](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
+Incoming Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). I currently work as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the National Institute of Standards and Technology (NIST), U.S.DOC. My foundation includes a Master's in Robotics from the [Maryland Robotics Center](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
 
 Please feel free to contact me (amishr17 [at] umd [dot] edu) if you want to talk about research and collaborate. 
 

@@ -77,6 +77,7 @@ Teaching
 --- 
 ## 📝 Certifications 
 
+* Physical Science Responsible Conduct of Research - CITI Program
 * Human Subjects Research (HSR) , Non-Clinical Researchers (IT, SBER, Engineering, etc) - CITI Program.
 * CPR/AED for Professional Rescuers with First Aid - RED CROSS.
 * Deep Learning – Udacity 

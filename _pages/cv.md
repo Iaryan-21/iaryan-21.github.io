@@ -21,7 +21,7 @@ redirect_from:
 **National Institute of Standards and Technology (NIST), U.S. Dept. of Commerce**  
 
 
-**Generative AI Research** | *(June 2025 – Present)*  
+**Generative AI Research** | *(June 2025 – August 2025)*  
 - Responsible for the development of an image and video processing pipeline within NIST's GenAI program. This pipeline facilitates detection, recognition, and verification for forensic evaluation purposes, and includes content authentication analysis to screen for inappropriate and AI-generated content.
 
 **Generative AI Software Developer** | *(Nov 2024 – May 2025)*  
@@ -65,14 +65,11 @@ redirect_from:
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 
-<!--  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+---
+## Teaching
+
+-- MATH 246 (Fall 2025) - Differential Equations for Engineers
 
 --- 
 ## 📝 Certifications 

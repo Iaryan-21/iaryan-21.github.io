@@ -20,14 +20,13 @@ My interest lies at the intersection of Mathematics, Statistics and Deep Learnin
 - Analysis of High Dimensional Data
 - Graph Strcuture Data Processing
 - Applied Statistics
-- Mathematical Analysis 
-
----
+- Mathematical Analysis
 
 ---
 ## Teaching 
 
 TA for Math 246 (Fall 2025) - Differential Equations for Engineers 
+
 ---
 
 ## Publications

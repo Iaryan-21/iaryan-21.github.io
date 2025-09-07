@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Incoming Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). I currently work as a Generative AI Researcher within the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) at the National Institute of Standards and Technology (NIST), U.S.DOC. My foundation includes a Master's in Robotics from the [Maryland Robotics Center](https://robotics.umd.edu) and a Bachelor's in Electronics and Communication Engineering from [VIT, Vellore](https://vit.ac.in).
+I am a Ph.D. student in Mathematical Statistics at the [University of Maryland, College Park](https://stat.umd.edu/grad-home/phd-in-statistics.html). I am advised by [Dr. Lizhen Lin](https://blog.umd.edu/lizhen01/). I have previously worked as a Generative AI Engineer and developer at the [Multimedia Information Group](https://www.nist.gov/itl/iad/mig) , at NIST, US DOC through the PREP program. I am interested in geometric deep learning, analysis of high dimensionsla data, graph strcuture data processing and applied statistics. 
 
-Please feel free to contact me (amishr17 [at] umd [dot] edu) if you want to talk about research and collaborate. 
+I am available at (amishr17 [at] umd [dot] edu) to talk about research and collaborate. 
 
 
 ---
@@ -23,6 +23,13 @@ My interest lies at the intersection of Mathematics, Statistics and Deep Learnin
 - Mathematical Analysis 
 
 ---
+
+---
+## Teaching 
+
+TA for Math 246 (Fall 2025) - Differential Equations for Engineers 
+---
+
 ## Publications
 
 ### PREPRINT
